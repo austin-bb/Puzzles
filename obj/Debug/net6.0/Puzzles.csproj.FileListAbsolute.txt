@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfo.cs
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/bin/Debug/net6.0/Puzzles
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/bin/Debug/net6.0/Puzzles.deps.json
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/bin/Debug/net6.0/Puzzles.runtimeconfig.json
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/bin/Debug/net6.0/Puzzles.dll
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/bin/Debug/net6.0/Puzzles.pdb
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.dll
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/refint/Puzzles.dll
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.pdb
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/Puzzles.genruntimeconfig.cache
+/Users/austin/Desktop/C#/Fundamentals/Puzzles/obj/Debug/net6.0/ref/Puzzles.dll
